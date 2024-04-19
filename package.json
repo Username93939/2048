@@ -15,6 +15,7 @@
     "author": "Username93939",
     "license": "ISC",
     "dependencies": {
-        "@types/node": "^20.12.7"
+        "@types/node": "^20.12.7",
+        "express": "^4.19.2"
     }
 }
